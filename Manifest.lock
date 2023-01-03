@@ -943,6 +943,7 @@ DEPENDENCIES:
   - firebase_remote_config (from `.symlinks/plugins/firebase_remote_config/ios`)
   - firebase_storage (from `.symlinks/plugins/firebase_storage/ios`)
   - FirebaseFirestore (~> 10.3.0)
+  - FirebaseStorage (~> 10.3.0)
   - Flutter (from `Flutter`)
   - google_sign_in_ios (from `.symlinks/plugins/google_sign_in_ios/ios`)
   - home_indicator (from `.symlinks/plugins/home_indicator/ios`)
@@ -1091,6 +1092,6 @@ SPEC CHECKSUMS:
   PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
   sign_in_with_apple: f3bf75217ea4c2c8b91823f225d70230119b8440
 
-PODFILE CHECKSUM: cafc99915fbfe9dd4b6b918d2df26c6b9d3029f7
+PODFILE CHECKSUM: c5d49f5b8336d3af0a4855582084fe5a743d0113
 
 COCOAPODS: 1.11.3
