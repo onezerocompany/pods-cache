@@ -619,6 +619,8 @@ PODS:
     - Firebase/Functions (= 10.3.0)
     - firebase_core
     - Flutter
+  - Firebase (10.3.0):
+    - Firebase/Core (= 10.3.0)
   - Firebase/Analytics (10.3.0):
     - Firebase/Core
   - Firebase/Auth (10.3.0):
@@ -929,10 +931,10 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - BoringSSL-GRPC (~> 0.0.24)
   - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
   - cloud_firestore (from `.symlinks/plugins/cloud_firestore/ios`)
   - cloud_functions (from `.symlinks/plugins/cloud_functions/ios`)
+  - Firebase (~> 10.3.0)
   - firebase_analytics (from `.symlinks/plugins/firebase_analytics/ios`)
   - firebase_auth (from `.symlinks/plugins/firebase_auth/ios`)
   - firebase_core (from `.symlinks/plugins/firebase_core/ios`)
@@ -942,7 +944,24 @@ DEPENDENCIES:
   - firebase_performance (from `.symlinks/plugins/firebase_performance/ios`)
   - firebase_remote_config (from `.symlinks/plugins/firebase_remote_config/ios`)
   - firebase_storage (from `.symlinks/plugins/firebase_storage/ios`)
+  - FirebaseABTesting (~> 10.3.0)
+  - FirebaseAnalytics (~> 10.3.0)
+  - FirebaseAppCheckInterop (~> 10.3.0)
+  - FirebaseAuth (~> 10.3.0)
+  - FirebaseAuthInterop (~> 10.3.0)
+  - FirebaseCore (~> 10.3.0)
+  - FirebaseCoreExtension (~> 10.3.0)
+  - FirebaseCoreInternal (~> 10.3.0)
+  - FirebaseCrashlytics (~> 10.3.0)
+  - FirebaseDynamicLinks (~> 10.3.0)
   - FirebaseFirestore (~> 10.3.0)
+  - FirebaseFunctions (~> 10.3.0)
+  - FirebaseInstallations (~> 10.3.0)
+  - FirebaseMessaging (~> 10.3.0)
+  - FirebaseMessagingInterop (~> 10.3.0)
+  - FirebasePerformance (~> 10.3.0)
+  - FirebaseRemoteConfig (~> 10.3.0)
+  - FirebaseSharedSwift (~> 10.3.0)
   - FirebaseStorage (~> 10.3.0)
   - Flutter (from `Flutter`)
   - google_sign_in_ios (from `.symlinks/plugins/google_sign_in_ios/ios`)
@@ -1092,6 +1111,6 @@ SPEC CHECKSUMS:
   PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
   sign_in_with_apple: f3bf75217ea4c2c8b91823f225d70230119b8440
 
-PODFILE CHECKSUM: c5d49f5b8336d3af0a4855582084fe5a743d0113
+PODFILE CHECKSUM: 275a8161f83e5791edc95f14f86124a72d1c4a52
 
 COCOAPODS: 1.11.3
