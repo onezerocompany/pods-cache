@@ -619,8 +619,6 @@ PODS:
     - Firebase/Functions (= 10.3.0)
     - firebase_core
     - Flutter
-  - Firebase (10.3.0):
-    - Firebase/Core (= 10.3.0)
   - Firebase/Analytics (10.3.0):
     - Firebase/Core
   - Firebase/Auth (10.3.0):
@@ -935,7 +933,6 @@ DEPENDENCIES:
   - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
   - cloud_firestore (from `.symlinks/plugins/cloud_firestore/ios`)
   - cloud_functions (from `.symlinks/plugins/cloud_functions/ios`)
-  - Firebase (~> 10.3.0)
   - firebase_analytics (from `.symlinks/plugins/firebase_analytics/ios`)
   - firebase_auth (from `.symlinks/plugins/firebase_auth/ios`)
   - firebase_core (from `.symlinks/plugins/firebase_core/ios`)
@@ -945,22 +942,9 @@ DEPENDENCIES:
   - firebase_performance (from `.symlinks/plugins/firebase_performance/ios`)
   - firebase_remote_config (from `.symlinks/plugins/firebase_remote_config/ios`)
   - firebase_storage (from `.symlinks/plugins/firebase_storage/ios`)
-  - FirebaseAnalytics (~> 10.3.0)
-  - FirebaseAuth (~> 10.3.0)
-  - FirebaseCore (~> 10.3.0)
-  - FirebaseDynamicLinks (~> 10.3.0)
   - FirebaseFirestore (~> 10.3.0)
-  - FirebaseFunctions (~> 10.3.0)
-  - FirebaseInstallations (~> 10.3.0)
-  - FirebaseMessaging (~> 10.3.0)
-  - FirebaseMessagingInterop (~> 10.3.0)
-  - FirebasePerformance (~> 10.3.0)
-  - FirebaseRemoteConfig (~> 10.3.0)
-  - FirebaseStorage (~> 10.3.0)
   - Flutter (from `Flutter`)
   - google_sign_in_ios (from `.symlinks/plugins/google_sign_in_ios/ios`)
-  - GoogleAppMeasurement (~> 10.3.0)
-  - GoogleSignIn (~> 6.2.4)
   - home_indicator (from `.symlinks/plugins/home_indicator/ios`)
   - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
   - mapbox_gl (from `.symlinks/plugins/mapbox_gl/ios`)
@@ -1107,6 +1091,6 @@ SPEC CHECKSUMS:
   PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
   sign_in_with_apple: f3bf75217ea4c2c8b91823f225d70230119b8440
 
-PODFILE CHECKSUM: 02f3646dd4778168c10ca143f17f9cf04bf0b255
+PODFILE CHECKSUM: cafc99915fbfe9dd4b6b918d2df26c6b9d3029f7
 
 COCOAPODS: 1.11.3
