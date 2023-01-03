@@ -824,17 +824,6 @@ PODS:
     - AppAuth (~> 1.5)
     - GTMAppAuth (~> 1.3)
     - GTMSessionFetcher/Core (< 3.0, >= 1.1)
-  - GoogleUtilities (7.10.0):
-    - GoogleUtilities/AppDelegateSwizzler (= 7.10.0)
-    - GoogleUtilities/Environment (= 7.10.0)
-    - GoogleUtilities/ISASwizzler (= 7.10.0)
-    - GoogleUtilities/Logger (= 7.10.0)
-    - GoogleUtilities/MethodSwizzler (= 7.10.0)
-    - GoogleUtilities/Network (= 7.10.0)
-    - "GoogleUtilities/NSData+zlib (= 7.10.0)"
-    - GoogleUtilities/Reachability (= 7.10.0)
-    - GoogleUtilities/SwizzlerTestHelpers (= 7.10.0)
-    - GoogleUtilities/UserDefaults (= 7.10.0)
   - GoogleUtilities/AppDelegateSwizzler (7.10.0):
     - GoogleUtilities/Environment
     - GoogleUtilities/Logger
@@ -853,8 +842,6 @@ PODS:
   - "GoogleUtilities/NSData+zlib (7.10.0)"
   - GoogleUtilities/Reachability (7.10.0):
     - GoogleUtilities/Logger
-  - GoogleUtilities/SwizzlerTestHelpers (7.10.0):
-    - GoogleUtilities/MethodSwizzler
   - GoogleUtilities/UserDefaults (7.10.0):
     - GoogleUtilities/Logger
   - "gRPC-C++ (1.44.0)":
@@ -911,11 +898,7 @@ PODS:
   - GTMAppAuth (1.3.1):
     - AppAuth/Core (~> 1.6)
     - GTMSessionFetcher/Core (< 3.0, >= 1.5)
-  - GTMSessionFetcher (2.3.0):
-    - GTMSessionFetcher/Full (= 2.3.0)
   - GTMSessionFetcher/Core (2.3.0)
-  - GTMSessionFetcher/Full (2.3.0):
-    - GTMSessionFetcher/Core
   - home_indicator (0.0.1):
     - Flutter
   - image_picker_ios (0.0.1):
@@ -948,7 +931,6 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - AppAuth (~> 1.6.0)
   - BoringSSL-GRPC (~> 0.0.24)
   - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
   - cloud_firestore (from `.symlinks/plugins/cloud_firestore/ios`)
@@ -963,15 +945,9 @@ DEPENDENCIES:
   - firebase_performance (from `.symlinks/plugins/firebase_performance/ios`)
   - firebase_remote_config (from `.symlinks/plugins/firebase_remote_config/ios`)
   - firebase_storage (from `.symlinks/plugins/firebase_storage/ios`)
-  - FirebaseABTesting (~> 10.3.0)
   - FirebaseAnalytics (~> 10.3.0)
-  - FirebaseAppCheckInterop (~> 10.3.0)
   - FirebaseAuth (~> 10.3.0)
-  - FirebaseAuthInterop (~> 10.3.0)
   - FirebaseCore (~> 10.3.0)
-  - FirebaseCoreExtension (~> 10.3.0)
-  - FirebaseCoreInternal (~> 10.3.0)
-  - FirebaseCrashlytics (~> 10.3.0)
   - FirebaseDynamicLinks (~> 10.3.0)
   - FirebaseFirestore (~> 10.3.0)
   - FirebaseFunctions (~> 10.3.0)
@@ -980,25 +956,18 @@ DEPENDENCIES:
   - FirebaseMessagingInterop (~> 10.3.0)
   - FirebasePerformance (~> 10.3.0)
   - FirebaseRemoteConfig (~> 10.3.0)
-  - FirebaseSharedSwift (~> 10.3.0)
   - FirebaseStorage (~> 10.3.0)
   - Flutter (from `Flutter`)
   - google_sign_in_ios (from `.symlinks/plugins/google_sign_in_ios/ios`)
   - GoogleAppMeasurement (~> 10.3.0)
   - GoogleDataTransport (~> 9.2.0)
   - GoogleSignIn (~> 6.2.4)
-  - GoogleUtilities (~> 7.10.0)
   - GTMAppAuth (~> 1.3.1)
-  - GTMSessionFetcher (~> 2.3.0)
   - home_indicator (from `.symlinks/plugins/home_indicator/ios`)
   - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
-  - Libuv-gRPC (~> 0.0.10)
   - Mapbox-iOS-SDK (~> 6.4.1)
   - mapbox_gl (from `.symlinks/plugins/mapbox_gl/ios`)
-  - MapboxAnnotationExtension (~> 0.0.1-beta.2)
-  - MapboxMobileEvents (~> 0.10.14)
   - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
-  - PromisesObjC (~> 2.1.1)
   - sign_in_with_apple (from `.symlinks/plugins/sign_in_with_apple/ios`)
 
 SPEC REPOS:
@@ -1141,6 +1110,6 @@ SPEC CHECKSUMS:
   PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
   sign_in_with_apple: f3bf75217ea4c2c8b91823f225d70230119b8440
 
-PODFILE CHECKSUM: 4d30106354aff18bd0a69be0ced4720810ce090e
+PODFILE CHECKSUM: 44df04687d1c22a9655c2de0fd0b1bf174691f66
 
 COCOAPODS: 1.11.3
