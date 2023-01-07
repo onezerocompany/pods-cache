@@ -1,0 +1,37 @@
+name: Create Pods Cache
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cache_pods:
+    name: Cache Pods
+    runs-on: macos-latest
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v3
+
+      - name: Prepare Environment
+        uses: ./.github/actions/flutter-env
+        with:
+          mapbox_download_token: ${{ secrets.MAPBOX_DOWNLOAD_TOKEN }}
+
+      - name: Install Cocoapods Binary Cache
+        working-directory: ./app/ios
+        run: |
+          gem install cocoapods-binary-cache
+
+      - name: Install Pods
+        working-directory: ./app/ios
+        run: |
+          pod install
+
+      - name: Prebuild Pods
+        working-directory: ./app/ios
+        run: |
+          pod binary prebuild
+
+      - name: Setup Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"

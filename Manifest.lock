@@ -619,8 +619,6 @@ PODS:
     - Firebase/Functions (= 10.3.0)
     - firebase_core
     - Flutter
-  - Firebase (10.3.0):
-    - Firebase/Core (= 10.3.0)
   - Firebase/Analytics (10.3.0):
     - Firebase/Core
   - Firebase/Auth (10.3.0):
@@ -949,7 +947,6 @@ DEPENDENCIES:
   - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
   - cloud_firestore (from `.symlinks/plugins/cloud_firestore/ios`)
   - cloud_functions (from `.symlinks/plugins/cloud_functions/ios`)
-  - Firebase (~> 10.3.0)
   - firebase_analytics (from `.symlinks/plugins/firebase_analytics/ios`)
   - firebase_auth (from `.symlinks/plugins/firebase_auth/ios`)
   - firebase_core (from `.symlinks/plugins/firebase_core/ios`)
@@ -967,17 +964,14 @@ DEPENDENCIES:
   - FirebaseCore (~> 10.3.0)
   - FirebaseCoreExtension (~> 10.3.0)
   - FirebaseCoreInternal (~> 10.3.0)
-  - FirebaseCrashlytics (~> 10.3.0)
   - FirebaseDynamicLinks (~> 10.3.0)
   - FirebaseFirestore (~> 10.3.0)
-  - FirebaseFunctions (~> 10.3.0)
   - FirebaseInstallations (~> 10.3.0)
   - FirebaseMessaging (~> 10.3.0)
   - FirebaseMessagingInterop (~> 10.3.0)
   - FirebasePerformance (~> 10.3.0)
   - FirebaseRemoteConfig (~> 10.3.0)
   - FirebaseSharedSwift (~> 10.3.0)
-  - FirebaseStorage (~> 10.3.0)
   - Flutter (from `Flutter`)
   - google_sign_in_ios (from `.symlinks/plugins/google_sign_in_ios/ios`)
   - GoogleAppMeasurement (~> 10.3.0)
@@ -1133,6 +1127,6 @@ SPEC CHECKSUMS:
   PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
   sign_in_with_apple: f3bf75217ea4c2c8b91823f225d70230119b8440
 
-PODFILE CHECKSUM: 247a64727cdf27e76326c900474222d43072f29c
+PODFILE CHECKSUM: 7636b041fc3343a3b6dd3981b6794668d9241e51
 
 COCOAPODS: 1.11.3

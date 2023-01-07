@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/src/core/lib/event_engine/channel_args_endpoint_config.cc \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/support/port_platform.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/impl/codegen/port_platform.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/src/core/lib/event_engine/channel_args_endpoint_config.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/event_engine/endpoint_config.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/types/variant.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/types/internal/variant.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Debug-iphonesimulator/abseil/absl.framework/Headers/types/bad_variant_access.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/src/core/lib/channel/channel_args.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/impl/codegen/grpc_types.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/impl/codegen/compression_types.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/impl/codegen/gpr_types.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/impl/codegen/slice.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/impl/codegen/gpr_slice.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/impl/codegen/status.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/src/core/lib/surface/channel_stack_type.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/include/grpc/impl/codegen/log.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/gRPC-Core/src/core/lib/gpr/useful.h

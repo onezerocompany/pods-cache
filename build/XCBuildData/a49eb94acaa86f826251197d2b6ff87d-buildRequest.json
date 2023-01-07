@@ -1,0 +1,75 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98758cc842172da540ffb591e63e38dc1e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c184ad8b3c49a0c098ef639132f1afe4"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c075cc473fa5680b867d51f1363214ff"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983da17a3564c774dfaa331fa07754d2bc"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9879b3258a81cdcb9a452ff70c710cfad1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d3c8dfff2c580c352f83d3850ad17775"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989b0ee9a6d93c0cfa024bbc34a88b2122"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98718890dfdac589615663a02d43d9af3e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98bbfb9d6e2480bdd16700b79b87e33c53"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c40b9b6fcd465b5943693d046e338276"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d7de55694c750fe04d3bc1517f91a481"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e986836e78755c7a49cbac94d6710bb39cc"
+    }
+  ],
+  "containerPath" : "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "x86_64",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SDKROOT" : "iphonesimulator16.2"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

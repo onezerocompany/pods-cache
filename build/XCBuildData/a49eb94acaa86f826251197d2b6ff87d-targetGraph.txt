@@ -1,0 +1,73 @@
+Target dependency graph (27 targets)
+AppAuth in Pods, no dependencies
+BoringSSL-GRPC in Pods, no dependencies
+PromisesObjC in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+FirebaseCoreInternal in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreInternal in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+abseil in Pods, no dependencies
+gRPC-C++-gRPCCertificates-Cpp in Pods, no dependencies
+Libuv-gRPC in Pods, no dependencies
+gRPC-Core in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+Libuv-gRPC in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods, depends on:
+abseil in Pods (explicit)
+gRPC-C++-gRPCCertificates-Cpp in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods, no dependencies
+nanopb in Pods, no dependencies
+FirebaseFirestore in Pods, depends on:
+FirebaseCore in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseInstallations in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseMessaging in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseABTesting in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseRemoteConfig in Pods, depends on:
+FirebaseABTesting in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+FirebasePerformance in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+FirebaseRemoteConfig in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+GTMSessionFetcher in Pods, no dependencies
+GTMAppAuth in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleSignIn-GoogleSignIn in Pods, no dependencies
+GoogleSignIn in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleSignIn-GoogleSignIn in Pods (explicit)
+MapboxMobileEvents in Pods, no dependencies
+Mapbox-iOS-SDK in Pods, depends on:
+MapboxMobileEvents in Pods (explicit)
+MapboxAnnotationExtension in Pods, depends on:
+Mapbox-iOS-SDK in Pods (explicit)

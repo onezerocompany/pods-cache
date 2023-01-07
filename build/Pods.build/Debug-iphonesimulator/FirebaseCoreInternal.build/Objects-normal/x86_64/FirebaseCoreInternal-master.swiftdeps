@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "182703588064fe916625cfa2d12d2366cb6af037e18bafbab74c5ffc9a5dd1ed"
+build_start_time: [1672961127, 899098873]
+build_end_time: [1672961128, 890967845]
+inputs:
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1672961106, 851522207]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1672961106, 852532386]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1672961106, 852982044]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1672961106, 853211879]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1672961106, 853650093]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1672961106, 851838111]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1672961106, 851191520]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1672961106, 853874206]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1672961106, 853423595]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1672961106, 852236509]
+  ? "/Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1672961106, 852725982]

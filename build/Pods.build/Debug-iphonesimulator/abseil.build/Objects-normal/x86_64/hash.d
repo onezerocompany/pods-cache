@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/hash/internal/hash.cc \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/Target\ Support\ Files/abseil/abseil-prefix.pch \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/hash/internal/hash.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/config.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/options.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/policy_checks.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/internal/unaligned_access.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/attributes.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/port.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/optimization.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/container/fixed_array.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/algorithm/algorithm.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/dynamic_annotations.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/macros.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/internal/dynamic_annotations.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/internal/throw_delegate.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/container/internal/compressed_tuple.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/utility/utility.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/internal/inline_variable.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/internal/identity.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/base/internal/invoke.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/meta/type_traits.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/memory/memory.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/hash/internal/city.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/hash/internal/low_level_hash.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/numeric/int128.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/numeric/int128_have_intrinsic.inc \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/strings/string_view.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/types/optional.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/types/bad_optional_access.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/types/internal/optional.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/types/variant.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/types/internal/variant.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/abseil/absl/types/bad_variant_access.h

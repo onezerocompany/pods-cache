@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenManager.m \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenManager.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging/FIRMessaging.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseInstallations/Source/Library/Private/FirebaseInstallationsInternal.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FirebaseInstallations.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/Target\ Support\ Files/FirebaseInstallations/FirebaseInstallations-umbrella.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingDefines.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingCode.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/NSError+FIRMessaging.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAuthKeychain.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAuthService.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinService.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingUtilities.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinPreferences.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinStore.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenDeleteOperation.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenOperation.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenFetchOperation.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenInfo.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAPNSInfo.h \
+  /Users/lucasilverentand/.cocoapods-binary-cache/prebuilt-frameworks/_Prebuild/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenStore.h
